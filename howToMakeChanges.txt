@@ -1,0 +1,5 @@
+Cd
+Cd Desktop/PersonalWebsite/
+Git add -A
+Git commit -m "[message here]"
+Git push
