@@ -1,6 +1,6 @@
 /* Your quick-edit settings. No build step or account tokens are needed. */
 window.PORTFOLIO_CONFIG = Object.freeze({
-  email: "yktaily@uwaterloo.ca",
+  email: "yusifktaily@gmail.com",
   linkedin: "https://www.linkedin.com/in/yusif-ktaily-4793942ba/",
 
   // Replace null with your personal introduction when you are ready.
